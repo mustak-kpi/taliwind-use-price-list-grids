@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Laptop",
+      "id": "12345",
+      "price": 799.99,
+      "features": ["High-resolution display", "Fast processor", "8GB RAM"]
+    },
+    {
+      "name": "Smartphone",
+      "id": "67890",
+      "price": 499.99,
+      "features": ["5G connectivity", "Dual-camera system", "128GB storage"]
+    },
+    {
+      "name": "Headphones",
+      "id": "54321",
+      "price": 129.99,
+      "features": ["Noise cancellation", "Bluetooth connectivity", "Long battery life"]
+    },
+    {
+      "name": "Smartwatch",
+      "id": "98765",
+      "price": 199.99,
+      "features": ["Fitness tracking", "Heart rate monitor", "Water-resistant"]
+    }
+
+  ]
+  
